@@ -1,0 +1,2 @@
+this is peter's test file
+input 'a' to edit this file
